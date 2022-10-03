@@ -1,0 +1,41 @@
+# peaclock config
+# file: /home/syed/.config/peaclock/config
+# date: 2022-06-25T20:32:10Z
+
+mode clock
+view digital
+toggle colon-bg
+stopwatch start
+timer 10m:0s
+timer-exec ''
+date '%a %b %d'
+locale ''
+timezone ''
+fill-colon ''
+fill-active ''
+fill-inactive ''
+rate-input 50
+rate-status 5000
+rate-refresh 1000
+block 2 1
+padding 0 0
+margin 0 0
+ratio 2 1
+date-padding 1
+set date on
+set seconds off
+set hour-24 off
+set auto-size on
+set auto-ratio on
+style active-fg #7da6ff
+style active-bg #7da6ff
+style inactive-fg #7da6ff
+style inactive-bg #11121D
+style colon-fg #7da6ff
+style colon-bg #7da6ff
+style date clear
+style text clear
+style background clear
+style prompt clear
+style success green
+style error red

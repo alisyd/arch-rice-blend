@@ -1,0 +1,193 @@
+[
+{
+	"border": "normal",
+		"floating": "auto_off",
+		"fullscreen_mode": 0,
+		"layout": "splith",
+		"marks": [],
+		"percent": 0.333333333333333,
+		"type": "con",
+		"nodes": [
+		{
+			"border": "normal",
+			"floating": "auto_off",
+			"layout": "splitv",
+			"marks": [],
+			"percent": 0.5,
+			"type": "con",
+			"nodes": [
+			{
+				"border": "pixel",
+				"current_border_width": 0,
+				"floating": "auto_off",
+				"geometry": {
+					"height": 82,
+					"width": 942,
+					"x": 12,
+					"y": 44
+				},
+				"marks": [],
+				"name": "spotify",
+				"percent": 0.166666666666667,
+				"swallows": [
+				{
+					"instance": "^Alacritty$"
+				}
+				],
+				"type": "con"
+			},
+			{
+				"border": "pixel",
+				"current_border_width": 0,
+				"floating": "auto_off",
+				"geometry": {
+					"height": 195,
+					"width": 942,
+					"x": 12,
+					"y": 44
+				},
+				"marks": [],
+				"name": "firefox",
+				"percent": 0.166666666666667,
+				"swallows": [
+				{
+					"instance": "^Alacritty$"
+				}
+				],
+				"type": "con"
+			},
+			{
+				"border": "pixel",
+				"current_border_width": 0,
+				"floating": "auto_off",
+				"geometry": {
+					"height": 116,
+					"width": 942,
+					"x": 12,
+					"y": 44
+				},
+				"marks": [],
+				"name": "syed@arch-user:~",
+				"percent": 0.166666666666667,
+				"swallows": [
+				{
+					"instance": "^Alacritty$"
+				}
+				],
+				"type": "con"
+			},
+			{
+				"border": "normal",
+				"floating": "auto_off",
+				"layout": "splith",
+				"marks": [],
+				"percent": 0.166666666666667,
+				"type": "con",
+				"nodes": [
+				{
+					"border": "pixel",
+					"current_border_width": 0,
+					"floating": "auto_off",
+					"geometry": {
+						"height": 527,
+						"width": 462,
+						"x": 12,
+						"y": 44
+					},
+					"marks": [],
+					"name": "peaclock",
+					"percent": 0.5,
+					"swallows": [
+					{
+						"instance": "^Alacritty$"
+					}
+					],
+					"type": "con"
+				},
+				{
+					"border": "pixel",
+					"current_border_width": 0,
+					"floating": "auto_off",
+					"geometry": {
+						"height": 527,
+						"width": 942,
+						"x": 12,
+						"y": 44
+					},
+					"marks": [],
+					"name": "htop",
+					"percent": 0.5,
+					"swallows": [
+					{
+						"instance": "^Alacritty$"
+					}
+					],
+					"type": "con"
+				}
+				]
+			},
+			{
+				"border": "pixel",
+				"current_border_width": 0,
+				"floating": "auto_off",
+				"geometry": {
+					"height": 1024,
+					"width": 1896,
+					"x": 12,
+					"y": 44
+				},
+				"marks": [],
+				"name": "syed@arch-user:~",
+				"percent": 0.166666666666667,
+				"swallows": [
+				{
+					"instance": "^Alacritty$"
+				}
+				],
+				"type": "con"
+			},
+			{
+				"border": "pixel",
+				"current_border_width": 0,
+				"floating": "auto_off",
+				"geometry": {
+					"height": 1024,
+					"width": 942,
+					"x": 12,
+					"y": 44
+				},
+				"marks": [],
+				"name": "cava",
+				"percent": 0.166666666666667,
+				"swallows": [
+				{
+					"instance": "^Alacritty$"
+				}
+				],
+				"type": "con"
+			}
+			]
+		},
+		{
+			"border": "pixel",
+			"current_border_width": 0,
+			"floating": "auto_off",
+			"geometry": {
+				"height": 611,
+				"width": 1896,
+				"x": 12,
+				"y": 44
+			},
+			"marks": [],
+			"name": "Spotify",
+			"percent": 0.5,
+			"swallows": [
+			{
+				"instance": "^spotify$"
+			}
+			],
+			"type": "con"
+		}
+		]
+}
+]
